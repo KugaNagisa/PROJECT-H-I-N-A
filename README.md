@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Discord**: [Support Server](https://discord.gg/your-support-server)
+- **Discord**: [Support Server](https://discord.gg/smBytp7S)
 
 ---
 
